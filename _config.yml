@@ -46,3 +46,5 @@ color:
 markdown: kramdown
 permalink: pretty
 future: true
+
+theme: jekyll-theme-cayman
