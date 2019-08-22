@@ -41,6 +41,7 @@ If you want to ask **good questions**, read [minimal reproducible examples in R]
 
 ### Other resources
 
+* Similar useR group, for Edinburgh: <http://edinbr.org/>
 * Rhus meetup: <https://www.meetup.com/Rhus-useR-group/>
 * Teacups, giraffes, & statistics: <https://tinystats.github.io/teacups-giraffes-and-statistics/>
 
