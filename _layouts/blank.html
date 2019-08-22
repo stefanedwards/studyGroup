@@ -7,18 +7,14 @@
     <body id="page-top" class="index">
 
     {% include header.html %}
-    {% include services.html %}
-    
+
     <div class="maincontent">
       <div class="container">
         {{ content }}
       </div>
     </div>
-    
-    {% comment %}
-    {% include portfolio_grid.html %}
-    {% include contact.html %}{% endcomment %}
-    {% include team.html %}
+
+    {% comment %}{% include contact.html %}{% endcomment %}
     {% include footer.html %}
     {% include js.html %}
 

@@ -1,10 +1,3 @@
-### [इसे हिंदी में पढ़ें](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-hi.md)
-
-### [Leia isto em Português](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-pt.md)
-
-### [中文版请点这里](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-zh.md)
-
-### [Lee esto en Español](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-es.md)
 
 # Mozilla Study Groups
 
