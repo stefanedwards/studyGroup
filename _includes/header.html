@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
+                <a class="navbar-brand page-scroll" href="{{site.url}}">{{site.title}}</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -27,10 +27,11 @@
                         <a class="page-scroll" href="#portfolio">{{site.data[site.language].events}}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">{{site.data[site.language].contact}}</a>
+                        {% comment %}<a class="page-scroll" href="#contact">{{site.data[site.language].contact}}</a>{% endcomment %}
+                        <a class="page-scroll" href="#team">{{site.data[site.language].teamHeadline}}</a>
                     </li>
                 </ul>
-            </div>
+            </div>   
 	    {% endif %}
             <!-- /.navbar-collapse -->
         </div>
@@ -38,6 +39,7 @@
     </nav>
 
     <!-- Header -->
+    {% if page.layout != 'blank' %}     
     <header>
         <div class="container">
             <div class="intro-text">
@@ -46,4 +48,12 @@
                 <a href="#services" class="page-scroll btn btn-xl">{{site.data[site.language].tellMeMore}}</a>
             </div>
         </div>
+      {% else %}
+    <header class="pagetitle">
+        <div class="container">
+          <div class="intro-text">
+           <div class="intro-heading">{{ page.title }}</div>
+          </div>
+        </div>	
+      {% endif %}
     </header>

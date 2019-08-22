@@ -16,3 +16,33 @@
     white-space: initial;
   }
 }
+
+
+header.pagetitle {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(img/header-bg.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}    
+
+header.pagetitle  .intro-text {
+  padding-top: 160px;  /* navbar is 80px tall, and .pagetitle has same top  */
+  padding-bottom: 50px;
+}
+
+.maincontent  li {    
+    font-size: 14px;
+}
+
+.follow-tags img {
+    width: 36px; 
+    height: 36px;
+    border: unset;
+    border-radius: 10px;
+}

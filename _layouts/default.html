@@ -8,8 +8,16 @@
 
     {% include header.html %}
     {% include services.html %}
+    
+    <div class="maincontent">
+      <div class="container">
+        {{ content }}
+      </div>
+    </div>
+    
+    {% comment %}
     {% include portfolio_grid.html %}
-    {% include contact.html %}
+    {% include contact.html %}{% endcomment %}
     {% include team.html %}
     {% include footer.html %}
     {% include js.html %}

@@ -1,6 +1,11 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Stefan McKinnon Høj-Edwards
+  affiliation: Kamstrup A/S
+  github: stefanedwards
+  twitter: iysik_com
   interests:
     - Programming
     - Open Science
+    - R/Shiny
+    - Data Visualisation
+    - Data for Production
+

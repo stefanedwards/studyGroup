@@ -8,9 +8,13 @@
 
     {% include header.html %}
 
-    {{ content }}
+    <div class="maincontent">
+      <div class="container">
+        {{ content }}
+      </div>
+    </div>
 
-    {% include contact.html %}
+    {% comment %}{% include contact.html %}{% endcomment %}
     {% include footer.html %}
     {% include js.html %}
 

@@ -35,6 +35,9 @@
                             <li class="fa fa-angle-right">&nbsp;{{ interest }}</li>
                             {% endfor %}
                         </ul>
+                        {% if member.twitter %}
+                          <div class="follow-tags"><a href="http://twitter.com/{{member.twitter}}"><img src="/img/twitter_follow_icon.png" /></a></div>
+                        {% endif %}
                         {% endif %}
                     </div>
                 </div>

@@ -19,8 +19,8 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To Our Study Group!"
-headlineMain: "Let's Work Together"
+headlineSmall: "Welcome to Rhus useR group!"
+headlineMain: "Let's learn togetheR"
 
 # Setup Google Calendar
 # Usage:
@@ -45,5 +45,8 @@ color:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  # parse markdown indside block-level HTML tags
+  parse_block_html: true
 permalink: pretty
 future: true
