@@ -30,6 +30,13 @@ suggest topics, and lead the group.
 * Data visualisation with ggplot2
 * Interactive data analysis: Shiny
 
+### While you are here...
+
+View our [Resources pages]({% link resources.md %}).
+
+Do you have anything to add? Get in contact via Twitter: <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <section id="portfolio" class="bg-light-gray">
 <div class="container">
 <div class="row">
