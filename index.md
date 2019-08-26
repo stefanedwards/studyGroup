@@ -24,13 +24,13 @@ or new trends in `R`. Some examples of contents we are looking for:
 ### Will there be introductory courses?
 
 I am setting up collaborations with the [Aarhus University Open Coders](https://au-oc.github.io/main/) (group changes is underway),
-who will be running data science and R introductory courses (see [Resources]({% link resources.md %}#aarhus-university-open-coders)).
+who will be running data science and R introductory courses (see [Resources]({{site.baseurl}}{% link resources.md %}#aarhus-university-open-coders)).
 The Rhus useR group will for now focus on users who are past the basic level, and are looking for inspiration for new uses and
 potential collaborators. 
 
 ### Are there other user groups for `R`?
 
-The idea of this group is formed after (EdinbR)[http://edinbr.org/] with monthly meetings, were various interested 
+The idea of this group is formed after [EdinbR](http://edinbr.org/) with monthly meetings, were various interested 
 would present their tools, workflows, or other interesting uses of R, ranging from beginner's level to
 advanced stuff. Presenters could be locals or invited guests, such as [David Robinson with `tidytext`](http://edinbr.org/edinbr/2018/02/01/february-meeting-David-Robinson.html).
 And meetings were always followed by time to chat.
@@ -41,7 +41,7 @@ otherwise look at [jumping rivers' list of R User groups](https://jumpingrivers.
 
 ### While you are here...
 
-View our [Resources pages]({% link resources.md %}).
+View our [Resources pages]({{site.baseurl}}{% link resources.md %}).
 
 Do you have anything to add? Get in contact via Twitter: <a href="https://twitter.com/iysik_com" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @iysik_com</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 or do a pull request from <https://github.com/stefanedwards/studyGroup>.
