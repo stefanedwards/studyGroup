@@ -38,6 +38,11 @@ And meetings were always followed by time to chat.
 If you are looking for useR groups in other locations, there is the ([CopenhagenR useR group](https://www.meetup.com/CopenhagenR-useR-Group/) in Denmark,
 otherwise look at [jumping rivers' list of R User groups](https://jumpingrivers.github.io/meetingsR/r-user-groups.html).
 
+### Wait, doesn't Rhus useR group already exist?
+
+Yes. You can find it on [meetup](https://www.meetup.com/Rhus-useR-group/), but it has been pretty stale for 3-4 years.
+
+Can we succeed in rebooting it? It will require your help.
 
 ### While you are here...
 
