@@ -46,12 +46,21 @@ If you want to ask **good questions**, read [minimal reproducible examples in R]
 * Rhus meetup: <https://www.meetup.com/Rhus-useR-group/>
 * Teacups, giraffes, & statistics: <https://tinystats.github.io/teacups-giraffes-and-statistics/>
 
-{% comment %}
-Max
-http://cas.au.dk/en/cedhar/events/show/artikel/intermediate-r-data-wrangling-and-visualisation-in-tidyverse/
-http://cas.au.dk/en/cedhar/events/show/artikel/introduction-to-r-1/
+#### Aarhus University Open Coders
 
-Adéla Sobotkova
-http://cas.au.dk/en/cedhar/events/show/artikel/fundamental-data-skills-2-day-workshop/
-{% endcomment %}
+Web site, for now: <https://au-oc.github.io/>. 
+The group is undergoing some changes (including a name change), which should be presented end of October '19.
 
+Some of their courses:
+  * <http://cas.au.dk/en/cedhar/events/show/artikel/intermediate-r-data-wrangling-and-visualisation-in-tidyverse/>
+  * <http://cas.au.dk/en/cedhar/events/show/artikel/introduction-to-r-1/>
+  * <http://cas.au.dk/en/cedhar/events/show/artikel/fundamental-data-skills-2-day-workshop/>
+
+### The R consortium's R user group support program
+
+By framing the study group as a useR group, we may achieve some benefits over a more
+assorted interest group.
+
+* The R consortium offers [a support program](https://www.r-consortium.org/projects/r-user-group-support-program)
+  which offers grants from US $ 150 and paying for meetup.com groups, e.g. [Rhus-useR-group](https://www.meetup.com/Rhus-useR-group).
+* "useR" is a recognized brand.
