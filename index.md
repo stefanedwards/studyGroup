@@ -6,7 +6,8 @@ layout: default
 
 Hi! I'm Stefan and I want to restart the Rhus useR group.
 
-For this to happen, I am looking people who want to participate and show their work with `R` at monthly meetings.
+For this to happen, I am looking people who want to participate and show their work with `R` at monthly meetings, 
+as well as users who can participate in a venue site (e.g. somebody at Aarhus University).
 
 ### What are the Rhus meetings?
 
@@ -19,7 +20,8 @@ or new trends in `R`. Some examples of contents we are looking for:
 * innovative ways of data visualisation or presenting data to users,
 * getting non-data people to use data,
 * summarising new trends in tidyverse or a specific field of theirs,
-* or demonstrate a new package (preferable own) with a live-coding session.
+* demonstrate a new package (preferable own) with a live-coding session,
+* or uses of *R outside* of academia.
 
 ### Will there be introductory courses?
 
