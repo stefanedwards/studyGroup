@@ -37,8 +37,8 @@ would present their tools, workflows, or other interesting uses of R, ranging fr
 advanced stuff. Presenters could be locals or invited guests, such as [David Robinson with `tidytext`](http://edinbr.org/edinbr/2018/02/01/february-meeting-David-Robinson.html).
 And meetings were always followed by time to chat.
 
-If you are looking for useR groups in other locations, there is the ([CopenhagenR useR group](https://www.meetup.com/CopenhagenR-useR-Group/) in Denmark,
-otherwise look at [jumping rivers' list of R User groups](https://jumpingrivers.github.io/meetingsR/r-user-groups.html).
+If you are looking for useR groups in other locations, there is the [CopenhagenR useR group](https://www.meetup.com/CopenhagenR-useR-Group/) and [AalborgRUG](https://www.meetup.com/AalborgRUG/) in Denmark.  
+Otherwise look at [jumping rivers' list of R User groups](https://jumpingrivers.github.io/meetingsR/r-user-groups.html).
 
 ### Wait, doesn't Rhus useR group already exist?
 
