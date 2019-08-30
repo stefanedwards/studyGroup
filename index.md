@@ -16,12 +16,12 @@ of `R` from Aarhus, Denmark and nearby areas, to discuss and present R-related m
 
 The meetings will be of 1-1½ hours duration, with 1-2 participants presenting interesting uses of `R`,
 or new trends in `R`. Some examples of contents we are looking for:
-* show casing own work in `R`, with focus on how they overcame technical obstacles in `R`,
-* innovative ways of data visualisation or presenting data to users,
+* show casing own work in `R` and Shiny, with focus on how they overcame technical obstacles in `R`,
+* innovative ways of data visualisation or presenting data to users, with e.g. Shiny,
 * getting non-data people to use data,
 * summarising new trends in tidyverse or a specific field of theirs,
 * demonstrate a new package (preferable own) with a live-coding session,
-* or uses of *R outside* of academia.
+* or uses of `R` *outside* of academia.
 
 ### Will there be introductory courses?
 
